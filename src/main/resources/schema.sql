@@ -1,0 +1,1 @@
+create table candy (id bigint not null,name varchar(500),price decimal(12,4),primary key (id))
